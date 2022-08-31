@@ -1,0 +1,8 @@
+datetime
+backtrader
+yfinance
+numpy
+pandas
+scipy
+matplotlib
+pandas_datareader
